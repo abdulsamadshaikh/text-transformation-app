@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text-transformation-app/static/css/main.a032a6d5.css",
+    "main.js": "/text-transformation-app/static/js/main.8db1a2c5.js",
+    "static/js/488.fdf12765.chunk.js": "/text-transformation-app/static/js/488.fdf12765.chunk.js",
+    "index.html": "/text-transformation-app/index.html",
+    "main.a032a6d5.css.map": "/text-transformation-app/static/css/main.a032a6d5.css.map",
+    "main.8db1a2c5.js.map": "/text-transformation-app/static/js/main.8db1a2c5.js.map",
+    "488.fdf12765.chunk.js.map": "/text-transformation-app/static/js/488.fdf12765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a032a6d5.css",
+    "static/js/main.8db1a2c5.js"
+  ]
+}
